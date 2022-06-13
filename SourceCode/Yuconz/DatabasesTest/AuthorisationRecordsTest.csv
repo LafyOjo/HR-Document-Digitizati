@@ -1,0 +1,17 @@
+Employee Number,empNo.requestType,Date and Time, Access Granted?
+cfi000,aaa000.CreatePersonalDetails,2019-03-12 00:45:30,true
+cfi000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
+cfi000,aaa000.AmendPersonalDetails,2019-03-12 00:45:30,true
+cfi000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
+cfi000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
+aaa000,aaa000.CreatePersonalDetails,2019-03-12 00:45:30,false
+cfi000,cfi000.CreatePersonalDetails,2019-03-12 00:45:30,true
+cfi000,cfi000.ReadPersonalDetails,2019-03-12 00:45:30,true
+cfi000,cfi000.CreatePersonalDetails,2019-03-12 00:45:30,true
+cfi000,cfi000.CreatePersonalDetails,2019-03-12 00:45:30,false
+cfi000,emp001.ReadPersonalDetails,2019-03-12 00:45:30,false
+cfi000,aaa000.CreatePersonalDetails,2019-03-12 00:45:30,true
+aaa000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
+aaa000,aaa000.AmendPersonalDetails,2019-03-12 00:45:30,true
+aaa000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
+aaa000,aaa000.ReadPersonalDetails,2019-03-12 00:45:30,true
